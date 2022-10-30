@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://github.com/RPGLogs/Uploaders-fflogs/releases/download/v5.9.5/FF-Logs-Uploader-Setup-5.9.5.exe" -OutFile "$($env:userprofile)\Downloads\FFLogsUploader-Setup-5.9.5.exe"
